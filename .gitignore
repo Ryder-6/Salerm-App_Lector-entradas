@@ -39,5 +39,5 @@ ios/build/
 
 *.csv
 # APK releases (tracked intentionally in releases/)
-*.apk
+.apk
 !releases/*.apk
